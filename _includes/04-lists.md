@@ -1,0 +1,5 @@
+- sleep
+- ramen
+- working out
+- coding
+- counter strike
